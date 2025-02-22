@@ -1,4 +1,4 @@
-create table register(
+create table users(
 username varchar(50),
 password varchar(50),
 mobile Int
